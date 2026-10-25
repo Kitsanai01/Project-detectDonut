@@ -29,8 +29,8 @@ DISPLAY_MAX = 420
 
 PRICE_MAP = {
     "Honey Dip": 29,
-    "Chocolate ring": 29,
-    "Strawberry ring": 29,
+    "Chocolate ring": 39,
+    "Strawberry ring": 32,
     "Choccoconut cake": 29,
     "Coconut cake": 29,
     "Choc peanut cake": 29,
@@ -38,12 +38,12 @@ PRICE_MAP = {
     "Twist GlaZe": 29,
     "Trio": 29,
     "Blueberry shell": 29,
-    "Strawberry shell": 29,
+    "Strawberry shell": 32,
     "Bavarian shell": 29,
-    "White Choc PDR": 29,
-    "Choc PDR": 29,
+    "White Choc PDR": 39,
+    "Choc PDR": 39,
     "Glaze PDR": 29,
-    "Strawberry PDR": 20,
+    "Strawberry PDR": 32,
     "Blueberry PDR": 29,
     "Plain PDR": 29,
 }
